@@ -9,10 +9,5 @@
 ## ==> Input is being taken via WebCam . 
 ## ==> The input is then provided to the model and the result is predicted and displayed using OpenCV.
 
-<html>
-  <body>
-    <figure class="video_container">
-      <iframe src="https://drive.google.com/open?id=1HrO5TWJYu1fUAfTVPyrlFveRexBBNlKQ" frameborder="0" allowfullscreen="true"> </iframe>
-    </figure>
-  <body>
-<html>
+## To view the output , click on this link: 
+      drive.google.com/open?id=1HrO5TWJYu1fUAfTVPyrlFveRexBBNlKQ
