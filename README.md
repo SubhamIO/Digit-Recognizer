@@ -4,10 +4,10 @@
 ### ------------------------------------------------------------------------------------------------------
 
 ## This code helps you classify different digits using Softmax Classifier.
-## ==> The CNN model is trained using MNIST dataset so that it can recognize hand written digits.
-## ==> A Softmax Classifier is used since it is a multiclass setting.
-## ==> Input is being taken via WebCam . 
-## ==> The input is then provided to the model and the result is predicted and displayed using OpenCV.
+- The CNN model is trained using MNIST dataset so that it can recognize hand written digits.
+- A Softmax Classifier is used since it is a multiclass setting.
+- Input is being taken via WebCam . 
+- The input is then provided to the model and the result is predicted and displayed using OpenCV.
 
 ## To view the output , click on this link: 
       drive.google.com/open?id=1HrO5TWJYu1fUAfTVPyrlFveRexBBNlKQ
